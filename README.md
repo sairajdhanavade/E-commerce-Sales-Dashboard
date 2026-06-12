@@ -2,7 +2,7 @@
 
 An interactive, end-to-end E-commerce Sales Dashboard built to track business performance, analyze categorical trends, and monitor Month-to-Date (MTD) KPIs against organizational goals.
 
-![Dashboard Overview](images/dashboard_screenshot.jpg) *(Replace with your actual image path or URL)*
+Imgae&video/Screenshot 2026-06-12 185241.png *(Replace with your actual image path or URL)*
 
 ## 📌 Project Overview
 This project transforms raw transactional e-commerce data into actionable business insights. By executing data cleaning steps in Excel and building dynamic data models in Power BI, this dashboard empowers stakeholders to identify top-performing product categories, track regional sales, and monitor profitability trends over time.
